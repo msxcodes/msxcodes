@@ -1,5 +1,7 @@
-# 💫 About Me:
-🔭 I’m currently working on:<br>Web Development<br><br>👯 I’m looking to collaborate on:<br>Frontend Projects<br><br>🌱 I’m currently learning:<br>MERN Stack<br><br>💬 Ask me about:<br>JavaScript, React, Tailwind, Linux and any general software development questions.<br><br>⚡ Fun fact:<br>I love to code!!!
+# Hello < Developers/ > ..!!
+
+## 💫 About Me:
+CSE'28 | Full-Stack Developer | Building scalable web apps with Next.js & Node.js | Freelancer | Exploring AI & Emerging Technologies.
 
 
 ## 🌐 Socials:
